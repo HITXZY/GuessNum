@@ -1,2 +1,2 @@
-# GuestNum
+# GuessNum
 猜数游戏
